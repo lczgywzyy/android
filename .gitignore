@@ -1,0 +1,11 @@
+activity-2017-0519/gradle.properties
+activity-2017-0519/.gradle/
+activity-2017-0519/.idea/
+*.iml
+activity-2017-0519/app/.externalNativeBuild/
+activity-2017-0519/app/build/
+activity-2017-0519/build/
+activity-2017-0519/gradle/
+activity-2017-0519/gradlew
+activity-2017-0519/local.properties
+activity-2017-0519/gradlew.bat
